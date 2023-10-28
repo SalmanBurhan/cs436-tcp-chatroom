@@ -1,2 +1,3 @@
-# cs-436-chatroom
-TODO
+# Basic TCP Protocol Chat Room
+---
+## **CS 436: Introduction to Networking** at California State University San Marcos
